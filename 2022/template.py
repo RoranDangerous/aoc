@@ -1,6 +1,6 @@
 from aocd import get_data, submit
 
-day = 5
+day = 1
 data = get_data(day=day, year=2022).splitlines()
 
 result = 0
